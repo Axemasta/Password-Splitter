@@ -9,7 +9,9 @@ I built this tool because I use a popular password manager and love to generate 
 
 Built for pesky little pages like this
 
-![Lloyds example](assets/lloyds-example.jpg)
+| Your Bank                                    | Your ... Bank 😅                               |
+| -------------------------------------------- | --------------------------------------------- |
+| ![Lloyds example](assets/lloyds-example.jpg) | ![Lloyds example](assets/halifax-example.png) |
 
 
 
