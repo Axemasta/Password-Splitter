@@ -17,7 +17,9 @@ $(document).ready(function () {
         numberValue = parseInt(numberValue);
         numberValue = numberValue - 1;
 
-        if (numberValue >= _password.length) {
+        console.log("number value is " + numberValue);
+
+        if ((isNaN(numberValue) || numberValue < 0) || numberValue >= _password.length) {
             label.text("?");
             
             label.addClass("unselected-character"); 
