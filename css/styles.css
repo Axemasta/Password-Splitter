@@ -71,3 +71,7 @@ input[type=number] {
 .footer-link a {
     color: #333d47;
 }
+
+.unselected-character {
+    opacity: 0.25;
+}
