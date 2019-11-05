@@ -48,4 +48,8 @@ $(document).ready(function () {
     $("#display-cell3-input").on("input", function () {
         RenderPassword($("#display-cell3-input"), $("#display-cell3-value"));
     });
+
+    $("#password-form").submit(function(e) {
+        e.preventDefault();
+    });
 });
