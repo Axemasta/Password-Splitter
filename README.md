@@ -1,4 +1,6 @@
 # Password Splitter
+[![Language: HTML](https://img.shields.io/badge/language-html-purple.svg)](https://www.w3.org/html/)[![Language: CSS](https://img.shields.io/badge/language-css-purple.svg)](https://www.w3.org/Style/CSS/)[![Language: JS](https://img.shields.io/badge/language-javascript-purple.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)[![GitHub issues](https://img.shields.io/github/issues/Axemasta/Password-Splitter.svg)](https://GitHub.com/Axemasta/password-splitter/issues/)[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Axemasta/Password-Splitter.svg)](https://GitHub.com/Axemasta/Password-Splitter/issues?q=is%3Aissue+is%3Aclosed)
+
 A quick and easy tool to split passwords up and quickly identify the position of characters in your passwords.
 
 [![GitHub Logo](assets/GitHub-Mark-32px.png)View On GitHub Docs](https://axemasta.github.io/Password-Splitter/)
